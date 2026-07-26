@@ -131,13 +131,7 @@ Terraform provisions:
 
 ---
 
-## 📊 Architecture Diagram
-
-Architecture diagram will be added here.
-
----
-
-##‍💻 Author
+# About Me
 
 Ahmed Adel
 
