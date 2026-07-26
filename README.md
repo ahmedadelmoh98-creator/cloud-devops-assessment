@@ -106,9 +106,28 @@ Terraform provisions:
 
 ---
 
-## Screenshots
+## Screenshot
+![Terraform](screenshots/terraform.png)
 
-Screenshots will be added here.
+![GitHub Actions](screenshots/github-actions.png)
+
+![VPC](screenshots/vpc.png)
+
+![ECS](screenshots/ecs.png)
+
+![ECR](screenshots/ecr.png)
+
+![ALB](screenshots/alb.png)
+
+![RDS](screenshots/rds.png)
+
+![S3](screenshots/s3.png)
+
+![Backend](screenshots/backend.png)
+
+![Health](screenshots/health.png)
+
+![Frontend](screenshots/frontend.png)
 
 ---
 
